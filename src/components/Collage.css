@@ -1,0 +1,9 @@
+img {
+  width: 100%;
+  object-fit: cover;
+  max-height: 70vh;
+  float: left;
+
+  /* border-bottom: solid 2px lightgray; */
+  /* margin-bottom: 10px; */
+}
